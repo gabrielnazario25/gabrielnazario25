@@ -4,15 +4,15 @@
 - Desenhista nas ~~raras~~ horas vagas
 - Apaixonado por música, artes, tecnologia...
 
-<!--
-## GitHub Stats ⚡
-<div>
+
+## ⚡ Estatísticas ⚡
+<div align="center">
   <a href="https://github.com/gabrielnazario25">
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnazario25&layout=compact&langs_count=10&theme=radical"/> 
-  </center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielnazario25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnazario25&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
--->
+
 ## 🛠️ Tecnologias, linguagens e ferramentas 🛠️
 ![Static Badge](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white)
