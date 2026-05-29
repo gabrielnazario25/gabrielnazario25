@@ -2,7 +2,7 @@
 - Formado em Ciência da Computação pela Universidade Federal de Ouro Preto - UFOP
 - Analista de sistemas/desenvolvedor web
 - Desenhista nas ~~raras~~ horas vagas
-- Apaixonado por música, artes, tecnologia...
+- Apaixonado por música, cinema, artes, tecnologia...
 
 
 ## ⚡ Estatísticas ⚡
